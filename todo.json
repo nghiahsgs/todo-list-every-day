@@ -1,0 +1,84 @@
+[
+  {
+    "id": "000",
+    "name": "Dậy sớm 5h30",
+    "complete": [false, false, false, false, false, false, false]
+  },
+  {
+    "id": "001",
+    "name": "Thiền 15p",
+    "complete": [false, false, false, false, false, false, false]
+  },
+  {
+    "id": "002",
+    "name": "Đọc sách 15p",
+    "complete": [false, false, false, false, false, false, false]
+  },
+  {
+    "id": "003",
+    "name": "Thể dục 10p",
+    "complete": [false, false, false, false, false, false, false]
+  },
+  {
+    "id": "004",
+    "name": "Ngủ sớm trước 23h",
+    "complete": [false, false, false, false, false, false, false]
+  },
+  {
+    "id": "005",
+    "name": "Tập guitar 30p",
+    "complete": [false, false, false, false, false, false, false]
+  },
+  {
+    "id": "006",
+    "name": "Luyện gõ ngón 15p",
+    "complete": [false, false, false, false, false, false, false]
+  },
+  {
+    "id": "007",
+    "name": "Gõ từ vựng tiếng anh 30p",
+    "complete": [false, false, false, false, false, false, false]
+  },
+  {
+    "id": "008",
+    "name": "Làm một bài đọc ielts 1h",
+    "complete": [false, false, false, false, false, false, false]
+  },{
+    "id": "009",
+    "name": "Làm một bài nghe ielts 1h",
+    "complete": [false, false, false, false, false, false, false]
+  },{
+    "id": "010",
+    "name": "Chạy bộ 30p cuối chiều",
+    "complete": [false, false, false, false, false, false, false]
+  },{
+    "id": "011",
+    "name": "Luyện phát âm tiếng trung",
+    "complete": [false, false, false, false, false, false, false]
+  },
+  {
+    "id": "012",
+    "name": "Hacker rank 45p",
+    "complete": [false, false, false, false, false, false, false]
+  },
+  {
+    "id": "013",
+    "name": "Học else 15p",
+    "complete": [false, false, false, false, false, false, false]
+  },
+  {
+    "id": "014",
+    "name": "Đọc bài medium 30p",
+    "complete": [false, false, false, false, false, false, false]
+  },
+  {
+    "id": "015",
+    "name": "Dịch bài medium 1h",
+    "complete": [false, false, false, false, false, false, false]
+  },
+  {
+    "id": "016",
+    "name": "Viết tay trái 30p",
+    "complete": [false, false, false, false, false, false, false]
+  }
+]
